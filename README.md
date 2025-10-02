@@ -4,6 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>【代理店様募集】AI活用TikTok運用代行 | 86研究所</title>
+
+    <!-- SEO & OGP Meta Tags for GitHub Pages -->
+    <meta name="description" content="貴社のクライアント様へ、月額8.8万円という圧倒的コストパフォーマンスのTikTok運用代行サービスをご紹介しませんか？AIを活用した「全て丸投げOK」の運用代行です。">
+    
+    <!-- OGP (Open Graph Protocol) Tags -->
+    <meta property="og:title" content="【代理店様募集】AI活用TikTok運用代行 | 86研究所">
+    <meta property="og:description" content="月額8.8万円のTikTok運用代行サービスをご紹介いただくパートナー様を募集しています。">
+    <meta property="og:type" content="website">
+    <!-- TODO: こちらに公開するページのURLを記載してください -->
+    <meta property="og:url" content="https://your-github-username.github.io/your-repository-name/"> 
+    <!-- TODO: プレビュー画像のURLを記載してください (推奨サイズ: 1200x630px) -->
+    <meta property="og:image" content="https://placehold.co/1200x630/0284c7/ffffff?text=TikTok運用代行%0A代理店パートナー募集">
+    <meta property="og:site_name" content="86研究所">
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="【代理店様募集】AI活用TikTok運用代行 | 86研究所">
+    <meta name="twitter:description" content="月額8.8万円のTikTok運用代行サービスをご紹介いただくパートナー様を募集しています。">
+    <!-- TODO: プレビュー画像のURLを記載してください -->
+    <meta name="twitter:image" content="https://placehold.co/1200x630/0284c7/ffffff?text=TikTok運用代行%0A代理店パートナー募集">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
     <style>
@@ -114,4 +135,3 @@
     </div>
 </body>
 </html>
-
